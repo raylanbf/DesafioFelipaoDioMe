@@ -1,5 +1,11 @@
+// Variáveis: 
+// xp (representa o nível de experiência do herói),
+// nomeHeroi (representa o nome do herói) e 
+// nivelDeHeroi (representa o nível do herói com base no XP).
+// Foi utilizado o switch como estrutura de decisão.
 
 
+```
 const xp = 1000;
 const nomeHeroi = "Gustavo";
 let nivelDeHeroi;
@@ -41,3 +47,4 @@ console.log(
   "O Herói de nome " + nomeHeroi + " está no nível " +  nivelDeHeroi +
   " com " + xp + " xp"
 );
+```
